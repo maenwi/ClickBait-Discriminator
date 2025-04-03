@@ -34,6 +34,13 @@ git push origin main
 : [Attention is All You Need](https://arxiv.org/abs/1706.03762)
 
 ### 2주차 : 미정
+: 데이터 전처리
+
+: 트랜스포머 모델 구현(pytorch)
+
+: FANDC 논문 리딩
+
+: BERT 모델 이해 + pytorch 구현
 
 ### 3주차 : 미정
 
